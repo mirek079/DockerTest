@@ -1,0 +1,2 @@
+# DockerTest
+Projekt testowy dockera
